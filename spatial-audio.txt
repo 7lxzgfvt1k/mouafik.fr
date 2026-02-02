@@ -1,0 +1,186 @@
+title:	Audio injection
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	4
+assignees:	
+projects:	
+milestone:	
+number:	2
+--
+Seems like some audio are injected somehow. Needs to be investigated.
+title:	Thought injection
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	3
+assignees:	
+projects:	
+milestone:	
+number:	3
+--
+Supposedly subconscious-induced. Needs to be investigated.
+title:	Demotivateur affiliation
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	4
+--
+![image](https://github.com/mlix8hoblc/spatial-audio/assets/110055457/901634c1-6bae-4e06-a091-146edc8a81b4)
+
+title:	AdopteUnMec affiliation
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	5
+--
+
+title:	Action-based reactions and side-effects
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	1
+assignees:	
+projects:	
+milestone:	
+number:	7
+--
+Some mouvements will trigger either thought or audio injections.
+
+Needs to be investigated.
+title:	QAnon affiliation
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	1
+assignees:	
+projects:	
+milestone:	
+number:	8
+--
+
+title:	TempleOS affiliation
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	9
+--
+Supposedly schyzophrenic, and "chose" homelessness 😏 
+title:	Widespread
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	11
+--
+Initially thought it was happening only on 127.0.0.1, but it seems it's on 0.0.0.0.
+title:	MK-Ultra affiliation
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	12
+--
+
+title:	UX similar to @kilmaru
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	1
+assignees:	
+projects:	
+milestone:	
+number:	13
+--
+There used to be empty streets; now the streets are busier but the UX remains the same.
+title:	Make it a mobile app
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	14
+--
+> Use arrow keys (↑, ↓, ←, →) to update x, y, z coordinates; press Enter for a new line, and Ctrl+C to exit.
+
+This suppose I would stay in the same place and keep recording. I moved around. Making it a mobile app using GPS coordinates on top would make for a better visualization.
+
+Maybe it would put some light on some entries being triggered based on the current "context".
+title:	Add weight to entries
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	15
+--
+Each entry triggers a different feeling, which could be linked to a "weight".
+
+It would be great to be able to estimate/calculate the effect of the entries on the "[player](https://archive.is/OF6Cx)" (or should we talk about "[lonely people](https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/#google_vignette)"?) well-being. This came up after starting to notice really embarassing [OCDs](https://www.youtube.com/watch?v=bYm8kdGmpeA).
+title:	Record entries with a GoPro
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	16
+--
+Could [this](https://www.youtube.com/watch?v=3CRJWy5zXvg) be a fix?
+title:	Voices
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	4
+assignees:	
+projects:	
+milestone:	
+number:	17
+--
+- Violaine FOGEL
+- Thibault BRONCHAIN
+title:	Dialect continuum
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	18
+--
+
+title:	Is this related?
+state:	OPEN
+author:	mlix8hoblc
+labels:	
+comments:	0
+assignees:	
+projects:	
+milestone:	
+number:	19
+--
+https://youtu.be/aU0qq4_3jGY
