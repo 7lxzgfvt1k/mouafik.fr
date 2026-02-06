@@ -24,3 +24,4 @@ mouafik.fr
 <img width="2432" height="2432" alt="image" src="https://github.com/user-attachments/assets/d87a03df-dc9a-4cf8-9d94-65c5badaff0e" />
 ![IMG_20251020_130457](https://github.com/user-attachments/assets/a53de8e1-ddfe-4205-9cbf-10b4c3300d2b)
 ![20251217_0001_page-0001](https://github.com/user-attachments/assets/18854c49-5a99-496d-81c9-7e43379db610)
+<img width="797" height="786" alt="Screenshot 2026-02-06 210435" src="https://github.com/user-attachments/assets/2340ced6-26d7-4ad2-8d06-131b9903ebef" />
